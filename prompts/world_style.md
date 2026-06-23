@@ -8,7 +8,7 @@ Cast:
 
 User-selected style preset: {{style}}
 
-Define the unified cinematic treatment. Lean into a premium, cinematic look (a dark political-thriller register: rich contrast, volumetric light, shallow depth of field, 35mm anamorphic framing) UNLESS the script clearly calls for something else. The characters are photoreal anthropomorphic animal/character actors — keep the rendering medium photoreal / CGI-cinematic (not cartoon) unless the script says otherwise.
+Define the unified treatment. The RENDERING MEDIUM is driven by the style preset above: honor it exactly. If the style asks for a cartoon / stylized / animated / "3D rendered cartoon" look, the medium is that (e.g. stylized 3D animation, Pixar/DreamWorks-style, clean subsurface-lit shapes, exaggerated appealing features — NOT photoreal). If the style asks for cinematic realism, use a premium photoreal dark-thriller look (rich contrast, volumetric light, shallow DOF, 35mm anamorphic). Keep whatever medium you choose CONSISTENT across every character so the reel looks like one film. Note the cinematic framing/lighting language still applies inside a cartoon medium (good staging, dramatic light) — just rendered as stylized 3D, not photoreal.
 
 Output a markdown document with these sections:
 

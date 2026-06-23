@@ -12,7 +12,10 @@
   "2": {
     "class_type": "HiggsV3Generate",
     "inputs": {
-      "higgs_model": ["1", 0],
+      "higgs_model": [
+        "1",
+        0
+      ],
       "text": "placeholder",
       "max_new_tokens": 4096,
       "temperature": 1.0,
@@ -26,6 +29,12 @@
   },
   "16": {
     "class_type": "SaveAudio",
-    "inputs": { "audio": ["2", 0], "filename_prefix": "higgs_tts" }
+    "inputs": {
+      "audio": [
+        "2",
+        0
+      ],
+      "filename_prefix": "higgs_tts"
+    }
   }
 }

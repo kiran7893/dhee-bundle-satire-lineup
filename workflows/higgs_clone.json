@@ -11,14 +11,22 @@
   },
   "13": {
     "class_type": "LoadAudio",
-    "inputs": { "audio": "voice_ref.wav" }
+    "inputs": {
+      "audio": "voice_ref.wav"
+    }
   },
   "2": {
     "class_type": "HiggsV3VoiceClone",
     "inputs": {
-      "higgs_model": ["1", 0],
+      "higgs_model": [
+        "1",
+        0
+      ],
       "text": "placeholder",
-      "reference_audio": ["13", 0],
+      "reference_audio": [
+        "13",
+        0
+      ],
       "reference_text": "अरे वाह, यह तो कमाल हो गया! सच में? मुझे तो यकीन ही नहीं हो रहा... कितना शानदार है यह सब!",
       "max_new_tokens": 4096,
       "temperature": 1.0,
@@ -32,6 +40,12 @@
   },
   "16": {
     "class_type": "SaveAudio",
-    "inputs": { "audio": ["2", 0], "filename_prefix": "higgs_clone" }
+    "inputs": {
+      "audio": [
+        "2",
+        0
+      ],
+      "filename_prefix": "higgs_clone"
+    }
   }
 }

@@ -530,11 +530,11 @@
           "lipSync": true,
           "width": 832,
           "height": 1472,
-          "guideStrength": 0.55,
+          "guideStrength": 0.5,
           "loras": [
             {
               "name": "LTX-2.3-22b-AV-LoRA-talking-head-v1.safetensors",
-              "strength": 1.0
+              "strength": 0.7
             }
           ],
           "fps": 24

@@ -9,9 +9,10 @@ This character's first-frame composition:
 The cast (identify the speaker by appearance):
 {{cast}}
 
-Write 1–3 sentences of plain prose that:
+Write 2–4 sentences of plain prose that:
 1. NAME the on-screen character (id {{item_id}}) and identify it by visible appearance (e.g. "the figure seated at the desk", "the presenter holding the microphone") so the model animates the right face.
-2. State that THIS character is talking — its lips/mouth move in sync with the spoken line — with the facial expression matching its emotion (and, if the line ends in laughter, the head tips back into a laugh) and subtle, natural head motion.
-3. Keep the camera a slow, subtle cinematic push-in or a near-static hold. No scene changes, no new elements, no on-screen text, no other characters.
+2. State that THIS character is talking — its lips/mouth move in sync with the spoken line.
+3. EXPRESSION ARC (most important — push hard, this is exaggerated cartoon acting, NOT a static talking head): describe the face and body PERFORMING the emotion across the line — brows, eyes, mouth and head all move. Use strong, specific expression beats that fit this character's emotion, e.g. "eyes fly wide and brows shoot up in shock, head jerking back"; "face crumples in agony, a forelimb clutching the head, shoulders sagging"; "an unhinged ear-to-ear grin, head thrown back laughing"; "shoulders slump, a heavy defeated sigh, gaze dropping"; "straightens up, leans hard into camera with a sly confident grin, a sharp nod on the final word". Make the emotion read big.
+4. Keep the camera a slow, subtle cinematic push-in or near-static hold so the PERFORMANCE carries it. No scene changes, no new elements, no on-screen text, no other characters.
 
 Output ONLY the directive prose — no JSON, no headers, no quotes.
