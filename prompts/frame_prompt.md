@@ -10,7 +10,7 @@ Write the first frame for the character with id = {{item_id}} ONLY, fusing its `
 
 Compose the imagePrompt so it reliably renders the ANTHROPOMORPHIC character (not a plain real animal, not a plain human):
 1. FIRST clause: the rendering medium from the world style (e.g. "ultra-photorealistic cinematic 3D animation, hyper-real fur/skin, Unreal-Engine realism").
-2. The character as an upright ANTHROPOMORPHIC figure — explicitly state the species head fused with a humanlike body and expressive humanlike face, then its build, distinctive features (horns/beak/antennae/leaves/etc.), and its clothing and colours EXACTLY as in the description. Make the species unmistakable (e.g. "a humanized cauliflower HEAD with a human face and body", "an anthropomorphic vulture with a bald hooked-beak head wearing a black judge's robe").
+2. The character as an upright ANTHROPOMORPHIC figure — explicitly state the species head fused with a humanlike body and expressive humanlike face, then its build, distinctive features (horns/beak/antennae/leaves/etc.), and its clothing and colours EXACTLY as in the description. Make the form unmistakable (e.g. "a humanized fruit/vegetable HEAD with a human face and body", "an anthropomorphic bird with a feathered head wearing a tailored jacket").
 3. Place it in its setting (from `setting`), with the key props, in cinematic light matching the world style.
 4. Framing: vertical 9:16 medium / medium-close shot, the single character facing the camera, positioned to deliver a line to camera, eyes to camera, mouth closed or barely parted (neutral, about to speak).
 5. Facial expression / body language = this character's `emotion`.
