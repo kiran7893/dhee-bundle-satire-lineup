@@ -11,13 +11,11 @@
     "runners": {
       "llm.generate": ">=0.1.0",
       "comfy.tti": ">=0.1.0",
-      "comfy.boogu": ">=0.1.0",
       "comfy.tts": ">=0.1.0",
       "comfy.ltx_director": ">=0.1.0",
       "ffmpeg.concat": ">=0.1.0"
     },
     "runnerPackages": {
-      "comfy.boogu": "dhee-runner-boogu",
       "comfy.tts": "dhee-runner-tts"
     }
   },

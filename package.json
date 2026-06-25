@@ -1,0 +1,17 @@
+{
+  "name": "@dhee_ai/bundle-satire-lineup",
+  "version": "0.1.0",
+  "description": "Script-driven satire lineup reel: cast extraction, per-character stills, OmniVoice voices, and LTX talking-head lip-sync clips concatenated into a vertical reel.",
+  "type": "module",
+  "license": "MIT",
+  "keywords": ["dhee-bundle"],
+  "homepage": "https://github.com/dheeai/dhee-bundle-satire-lineup#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dheeai/dhee-bundle-satire-lineup.git"
+  },
+  "dhee": { "bundles": "./bundles" },
+  "files": ["bundles", "LICENSE", "README.md"],
+  "engines": { "node": ">=20.0.0" },
+  "publishConfig": { "access": "public" }
+}
