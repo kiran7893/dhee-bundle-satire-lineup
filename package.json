@@ -1,0 +1,24 @@
+{
+  "name": "@dhee_ai/bundle-satire-lineup",
+  "version": "0.1.1",
+  "description": "Script-driven satire lineup reel with per-character voices and LTX talking-head lip-sync.",
+  "type": "module",
+  "license": "MIT",
+  "keywords": ["dhee-bundle"],
+  "homepage": "https://github.com/dheeai/dhee-bundle-satire-lineup#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dheeai/dhee-bundle-satire-lineup.git"
+  },
+  "dhee": { "bundles": "." },
+  "files": [
+    "bundle.json",
+    "inputs",
+    "prompts",
+    "schemas",
+    "workflows",
+    "LICENSE"
+  ],
+  "engines": { "node": ">=20.0.0" },
+  "publishConfig": { "access": "public" }
+}
